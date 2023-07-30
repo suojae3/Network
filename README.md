@@ -37,7 +37,7 @@
 ---
 
 
-### 03. 그렇다면 이러한 Network Core 에 의한 전달방식 2가지가 무엇인지 설명해주세요
+### 03. 그렇다면 이러한 Network Core 에 의한 전달방식 2가지가 무엇인지 설명해주세요<br/><br/> 
 
 - 네트워크 전달 방식에는 크게 두가지 **Circuit Switching** 과 **Packet Switching** 이 있습니다.
 
@@ -57,7 +57,7 @@
 ---
 
 
-### 04. Circuit Switching 의 단점을 간략하게 설명해주세요
+### 04. Circuit Switching 의 단점을 간략하게 설명해주세요<br/><br/> 
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/suojae3/CS_Network/assets/126137760/67d82364-5459-408a-8ac7-88d432eae27f" width="400" height="200"/><br/><br/>
@@ -69,7 +69,7 @@
 ---
 
 
-### 05. Packet Switching 을 사용할시 생기는 문제들에 대해 설명해주세요
+### 05. Packet Switching 을 사용할시 생기는 문제들에 대해 설명해주세요<br/><br/> 
 
 
 <img src="https://github.com/suojae3/CS_Network/assets/126137760/5e1184f0-85ca-4295-adc3-95c26dfae433"  width="400" height="200"/>
@@ -89,7 +89,7 @@
 ---
 
 
-### 06. Propagation Delay에 대해 설명해주세요
+### 06. Propagation Delay에 대해 설명해주세요<br/><br/> 
 
 
 ![image](https://github.com/suojae3/CS_Network/assets/126137760/14a3ab67-dd63-46cc-bd68-96c783082a97)
@@ -101,7 +101,7 @@
 
 ---
 
-### 07. Processing Delay 와Transmission Delay 는 어떻게 줄일 수 있을까요?
+### 07. Processing Delay 와Transmission Delay 는 어떻게 줄일 수 있을까요?<br/><br/> 
 
 ![image](https://github.com/suojae3/CS_Network/assets/126137760/70f098c3-705c-4c92-9dd3-a04834bd9139)
 
@@ -112,7 +112,7 @@
 
 ---
 
-### 08.  **Queueing Delay** 는 어떻게 줄일까요?
+### 08.  **Queueing Delay** 는 어떻게 줄일까요?<br/><br/> 
 
 - **Queueing Delay** 는 인터넷 사용자 패턴에 달린 문제이기 때문에 가장 골치아픈 문제라고 할 수 있습니다
 - 네트워크 상의 문제는 사실상 거의 **Queueing Delay**에서 발생한다고 볼 수 있습니다.
@@ -120,7 +120,7 @@
 
 ---
 
-### 09. 패킷 유실(Packet Loss)이란 무엇인가요?
+### 09. 패킷 유실(Packet Loss)이란 무엇인가요?<br/><br/> 
 
 ![image](https://github.com/suojae3/CS_Network/assets/126137760/05789765-ee8f-4ebd-99c9-fa96e8cc99cf)
 
