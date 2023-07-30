@@ -1,8 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=slice)
+![header](https://capsule-render.vercel.app/api?type=waveing&color=auto&height=300&section=header&text=Network%20render&fontSize=90)
 
 ---
 
-### 네트워크 자문자답<br/>
 ### 강의명: KOCW 한양대학교 컴퓨터 네트워크 이석복 교수
 
 ----
