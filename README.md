@@ -4,8 +4,8 @@
 
 ### 01. 프로토콜이란 무엇인가요?
 
-![image](https://github.com/suojae3/CS_Network/assets/126137760/f6c7b469-dc91-4899-87b0-543196d4dc2e){: width="30" height="30"}
-
+![image](https://github.com/suojae3/CS_Network/assets/126137760/f6c7b469-dc91-4899-87b0-543196d4dc2e{: width="30" height="30"}
+)
 
 - 쉽게 말해 기계와 기계간의 대화함에 있어 일종의 약속입니다
 - 네트워크 용어에서 나오는 P는 Protocol의 약자가 대부분이며 대표적인 프로토콜로는 인터넷 프로토콜인 TCP/IP가 있습니다
