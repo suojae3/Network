@@ -4,7 +4,7 @@
 
 ### 01. 프로토콜이란 무엇인가요?
 
-![image](https://github.com/suojae3/CS_Network/assets/126137760/f6c7b469-dc91-4899-87b0-543196d4dc2e)
+![image](https://github.com/suojae3/CS_Network/assets/126137760/f6c7b469-dc91-4899-87b0-543196d4dc2e){: width="100" height="100"}
 
 
 - 쉽게 말해 기계와 기계간의 대화함에 있어 일종의 약속입니다
