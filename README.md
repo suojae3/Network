@@ -17,7 +17,7 @@
 ### 01. 프로토콜이란 무엇인가요?<br/><br/> 
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/suojae3/CS_Network/assets/126137760/f6c7b469-dc91-4899-87b0-543196d4dc2e" width="400" height="200"/>
+&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/suojae3/CS_Network/assets/126137760/f6c7b469-dc91-4899-87b0-543196d4dc2e" width="400" height="200"/><br/><br/>
 
 
 - 쉽게 말해 기계와 기계간의 대화함에 있어 일종의 약속입니다
@@ -42,14 +42,14 @@
 - 네트워크 전달 방식에는 크게 두가지 **Circuit Switching** 과 **Packet Switching** 이 있습니다.
 
 
-<img src="https://github.com/suojae3/CS_Network/assets/126137760/d90a86de-8f6c-4ff8-9ce8-4093b5fdfbbc" width="400" height="200"/>
+&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/suojae3/CS_Network/assets/126137760/d90a86de-8f6c-4ff8-9ce8-4093b5fdfbbc" width="400" height="200"/><br/><br/>
 
 
 - **Circuit Switching** 은 출발지부터 목적지까지 미리 예약을 하고 특정 사용자만을 위해 만들어놓은 방식입니다. (ex_ 옛날 유선전화망)
 - 사진처럼 링크 전부를 주는 것이 아닌 어떤 유저한테는 링크 이부분만 주고 이부분만 주고 이런방식
 
 
-<img src="https://github.com/suojae3/CS_Network/assets/126137760/444cf207-10ce-4217-9492-a53e74fd12b0" width="400" height="200"/>
+&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/suojae3/CS_Network/assets/126137760/444cf207-10ce-4217-9492-a53e74fd12b0" width="400" height="200"/><br/><br/>
 
 
 - **Packet Switching** 은 인터넷에서 사용하는 방식으로, 유저로부터 패킷을 받아 그때그때 올바른 방향으로 전송(forwarding)해주는 방식입니다.
@@ -60,7 +60,7 @@
 ### 04. Circuit Switching 의 단점을 간략하게 설명해주세요
 
 
-<img src="https://github.com/suojae3/CS_Network/assets/126137760/67d82364-5459-408a-8ac7-88d432eae27f" width="400" height="200"/>
+&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/suojae3/CS_Network/assets/126137760/67d82364-5459-408a-8ac7-88d432eae27f" width="400" height="200"/><br/><br/>
 
 
 - 일반적인 인터넷 사용패턴은 계속해서 데이터를 주고 받는 것이 아닌 일단 클릭후 뉴스같은 걸 보다가 (데이터 주고받지않는 시간), 또 흥미있는게 생기면 클릭(데이터 통신)하는 패턴입니다.
