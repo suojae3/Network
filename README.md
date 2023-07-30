@@ -31,7 +31,7 @@
 ### 02. Network Core란 무엇인가요?<br/><br/> 
 
 
-<img src="https://github.com/suojae3/CS_Network/assets/126137760/14c7a3ef-f161-41c5-86cf-2ce7b28e4802"  width="400" height="200"/><br/><br/> 
+&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/suojae3/CS_Network/assets/126137760/14c7a3ef-f161-41c5-86cf-2ce7b28e4802"  width="400" height="200"/><br/><br/> 
 
 
 - 프로토콜을 준수함으로서 데이터를 전달하게 되는데 이러한 데이터 전달은 중간중간에 라우터가 받아서 전달하게 됩니다
