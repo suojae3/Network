@@ -4,16 +4,21 @@
 
 ---
 
+
 ### 01. 프로토콜이란 무엇인가요?
 
-\n<img src="https://github.com/suojae3/CS_Network/assets/126137760/f6c7b469-dc91-4899-87b0-543196d4dc2e" width="400" height="200"/>\n
+
+<img src="https://github.com/suojae3/CS_Network/assets/126137760/f6c7b469-dc91-4899-87b0-543196d4dc2e" width="400" height="200"/>
+
 
 - 쉽게 말해 기계와 기계간의 대화함에 있어 일종의 약속입니다
 - 네트워크 용어에서 나오는 P는 Protocol의 약자가 대부분이며 대표적인 프로토콜로는 인터넷 프로토콜인 TCP/IP가 있습니다
 
 ---
 
+
 ### 02. Network Core란 무엇인가요?
+
 
 <img src="https://github.com/suojae3/CS_Network/assets/126137760/14c7a3ef-f161-41c5-86cf-2ce7b28e4802"  width="400" height="200"/>
 
@@ -23,15 +28,18 @@
 
 ---
 
+
 ### 03. 그렇다면 이러한 Network Core 에 의한 전달방식 2가지가 무엇인지 설명해주세요
 
 - 네트워크 전달 방식에는 크게 두가지 **Circuit Switching** 과 **Packet Switching** 이 있습니다.
+
 
 <img src="https://github.com/suojae3/CS_Network/assets/126137760/d90a86de-8f6c-4ff8-9ce8-4093b5fdfbbc" width="400" height="200"/>
 
 
 - **Circuit Switching** 은 출발지부터 목적지까지 미리 예약을 하고 특정 사용자만을 위해 만들어놓은 방식입니다. (ex_ 옛날 유선전화망)
 - 사진처럼 링크 전부를 주는 것이 아닌 어떤 유저한테는 링크 이부분만 주고 이부분만 주고 이런방식
+
 
 <img src="https://github.com/suojae3/CS_Network/assets/126137760/444cf207-10ce-4217-9492-a53e74fd12b0" width="400" height="200"/>
 
@@ -40,7 +48,9 @@
 
 ---
 
+
 ### 04. Circuit Switching 의 단점을 간략하게 설명해주세요
+
 
 <img src="https://github.com/suojae3/CS_Network/assets/126137760/67d82364-5459-408a-8ac7-88d432eae27f" width="400" height="200"/>
 
@@ -50,15 +60,18 @@
 
 ---
 
+
 ### 05. Packet Switching 을 사용할시 생기는 문제들에 대해 설명해주세요
 
-![image](https://github.com/suojae3/CS_Network/assets/126137760/5e1184f0-85ca-4295-adc3-95c26dfae433)
+
+<img src="https://github.com/suojae3/CS_Network/assets/126137760/5e1184f0-85ca-4295-adc3-95c26dfae433"  width="400" height="200"/>
 
 
 - Packet Switching 의 첫번째 문제점은 **Queueing Delay** 입니다.
 - 먼저 라우터로부터 패킷을 받으면 패킷 검사를 하고 (이때 패킷 검사하는 시간이 **Processing Delay**), 이제 outgoing edge로 뿜어내야하는데 만약 outgoing edge에 큐가 길게 늘여져있을 경우 앞에 애들이 나갈 때까지 기다려야합니다. 이 기다리는 시간이 **Queueing Delay** 입니다
 
-![image](https://github.com/suojae3/CS_Network/assets/126137760/54264535-9541-4892-a56c-7e4c3c44d1ec)
+
+!<img src="https://github.com/suojae3/CS_Network/assets/126137760/54264535-9541-4892-a56c-7e4c3c44d1ec" width="400" height="200"/>
 
 
 - 두번째 문제는 **Transmission Delay**입니다. **Transmission Delay**는 첫번째 비트가 나가는 그 시간부터 마지막 비트가 뿜어져 나가기까지 걸리는 시간입니다 (패킷은 빛의 집합)
@@ -67,7 +80,9 @@
 
 ---
 
+
 ### 06. Propagation Delay에 대해 설명해주세요
+
 
 ![image](https://github.com/suojae3/CS_Network/assets/126137760/14a3ab67-dd63-46cc-bd68-96c783082a97)
 
